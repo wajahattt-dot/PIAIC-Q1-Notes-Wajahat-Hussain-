@@ -3,7 +3,7 @@
 
 ## Instructor: Wajahat Hussain 🌟
 
-Welcome to **PIAIC Class 07** held at the **Bahria Auditorium** on **September 8th, 2024**. During this session, we explored the incredible capabilities of **Google Colab**, diving into its powerful features, interface, and how to leverage it for machine learning and Python programming tasks. Here's a comprehensive breakdown of everything we covered in this session, enhanced with emojis for clarity and fun! 😄
+Welcome to **PIAIC Class 07** held at the **Bahria Auditorium** on **September 8th, 2024**. During this session, we explored the incredible capabilities of **Google Colab**, diving into its powerful features, interface, and how to leverage it for machine learning and Python programming tasks. Here's a comprehensive breakdown of everything we covered in this session, 
 
 ---
 
