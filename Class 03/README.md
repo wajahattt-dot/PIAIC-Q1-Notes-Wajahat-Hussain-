@@ -120,7 +120,7 @@ If you have any questions or want to learn more about the PIAIC program, feel fr
 
 📧 Email: wajahat.taurus2009@gmail.com
 
-🌐 LinkedIn: Wajahat Hussain(https://www.linkedin.com/in/wajahattt-hussain/)
+🌐 LinkedIn: [Wajahat Hussain](https://www.linkedin.com/in/wajahattt-hussain/)
 
 📹 YouTube Channel: [Wizard Explains](https://www.youtube.com/@WizardExplains)
 
