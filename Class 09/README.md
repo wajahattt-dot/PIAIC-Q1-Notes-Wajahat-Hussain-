@@ -1,4 +1,3 @@
-
 ## 🎓 **PIAIC Sunday Class 09 Notes** 🎓  
 🧑‍💻 **Instructor**: Wajahat Hussain
 
@@ -134,3 +133,9 @@ print(f"Bowler took {wickets} wicket!")  # Output: Bowler took 1 wicket!
 wickets += 2  # Bowler takes 2 more wickets
 print(f"Bowler took {wickets} wickets!")  # Output: Bowler took 3 wickets!
 ```
+
+### Next Step: 
+[Lesson_09.ipynb](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/07_natural_language_programming/02_ai_python_for_beginners/course1_basics/Lesson_9/Lesson_9.ipynb)
+
+Complete Explaination:
+[Lesson_09.ipynb-Complete-Explaination]()
