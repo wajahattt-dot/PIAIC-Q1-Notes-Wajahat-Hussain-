@@ -112,4 +112,25 @@ Here are some ideas for adding animations to make your content pop:
 
 5. **Concatenation**:  
    - Animate strings combining together like pieces of a puzzle forming a message.
+  
+## Overriding In Python
+```
+# Initialize variables for runs and wickets
+runs = 0  # Batsman's score starts at 0
+wickets = 0  # Bowler's wickets start at 0
 
+# Assignment operators to update scores during the match
+# Batsman scores runs
+runs += 4  # Batsman hits a 4
+print(f"Batsman scored {runs} runs!")  # Output: Batsman scored 4 runs!
+
+runs += 6  # Batsman hits a 6
+print(f"Batsman scored {runs} runs!")  # Output: Batsman scored 10 runs!
+
+# Bowler takes wickets
+wickets += 1  # Bowler takes 1 wicket
+print(f"Bowler took {wickets} wicket!")  # Output: Bowler took 1 wicket!
+
+wickets += 2  # Bowler takes 2 more wickets
+print(f"Bowler took {wickets} wickets!")  # Output: Bowler took 3 wickets!
+```
