@@ -1,6 +1,6 @@
 ## PIAIC Class 10 - BATCH 61 - Quarter 1   
 **Date:** 29th September 2024
-### Imstructor: WAJAHAT HUSSAIN
+### Instructor: WAJAHAT HUSSAIN
 
 ## Table of Contents:
 ### 1. **Setting up Google Colab** 💻:
