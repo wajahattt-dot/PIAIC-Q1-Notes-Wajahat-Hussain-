@@ -1,8 +1,8 @@
-### PIAIC Class 10 - BATCH 61 - Quarter 1   
+## PIAIC Class 10 - BATCH 61 - Quarter 1   
 **Date:** 29th September 2024
-#### Imstructor: WAJAHAT HUSSAIN
+### Imstructor: WAJAHAT HUSSAIN
 
-### Table of Contents:
+## Table of Contents:
 ### 1. **Setting up Google Colab** 💻:
 Google Colab is an online environment where you can write and execute Python code. It’s super useful because you can use powerful cloud-based GPUs and TPUs for free, making it perfect for machine learning tasks! 🚀
 
